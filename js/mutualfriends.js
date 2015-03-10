@@ -51,7 +51,7 @@ function invite() {
 	VK.callMethod('showInviteBox');
 }
 function wall() {
-	VK.api('wall.post', {message: 'Просмотр общих друзей и подписчиков у любых людей и сообществ! https://vk.com/app4820427', attachments: 'photo33610634_350256389, https://vk.com/app4820427'}, function(data) {
+	VK.api('wall.post', {message: 'Просмотр общих друзей и подписчиков у любых людей и сообществ! https://vk.com/app4820427', attachments: 'photo16671743_356683412, https://vk.com/app4820427'}, function(data) {
 
 	});
 }
